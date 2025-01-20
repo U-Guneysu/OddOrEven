@@ -14,7 +14,7 @@ To get started, simply clone the repository and set up the project on your machi
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/yourusername/odd-or-even-checker.git
+   git clone https://github.com/U-Guneysu/OddOrEven.git
    ```
 
 2. **Open the project** in Visual Studio or your preferred C# IDE. (Tip: This project was developed using Visual Studio 2022)
