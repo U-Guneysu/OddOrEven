@@ -1,6 +1,6 @@
 # 🎉 Odd or Even (My First C# Project - Windows Forms)
 
-Welcome to **Odd or Even**, a simple yet effective Windows Forms application built with **C#**. This app allows users to input a number and instantly checks whether it's odd or even, providing immediate feedback with a clean and user-friendly interface.
+Welcome to **Odd or Even**, a simple Windows Forms application built with **C#**. This app allows users to input a number and instantly checks whether it's odd or even, providing immediate feedback with a clean and user-friendly interface.
 
 ## ✨ Features
 
