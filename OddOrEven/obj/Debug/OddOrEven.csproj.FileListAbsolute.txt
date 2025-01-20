@@ -1,0 +1,10 @@
+C:\Users\UMUT\Desktop\Github\23MY93020_odev_no_01\23MY93020_odev_no_01\bin\Debug\OddOrEven.exe.config
+C:\Users\UMUT\Desktop\Github\23MY93020_odev_no_01\23MY93020_odev_no_01\bin\Debug\OddOrEven.exe
+C:\Users\UMUT\Desktop\Github\23MY93020_odev_no_01\23MY93020_odev_no_01\bin\Debug\OddOrEven.pdb
+C:\Users\UMUT\Desktop\Github\23MY93020_odev_no_01\23MY93020_odev_no_01\obj\Debug\OddOrEven.csproj.AssemblyReference.cache
+C:\Users\UMUT\Desktop\Github\23MY93020_odev_no_01\23MY93020_odev_no_01\obj\Debug\OddOrEven.Form1.resources
+C:\Users\UMUT\Desktop\Github\23MY93020_odev_no_01\23MY93020_odev_no_01\obj\Debug\OddOrEven.Properties.Resources.resources
+C:\Users\UMUT\Desktop\Github\23MY93020_odev_no_01\23MY93020_odev_no_01\obj\Debug\OddOrEven.csproj.GenerateResource.cache
+C:\Users\UMUT\Desktop\Github\23MY93020_odev_no_01\23MY93020_odev_no_01\obj\Debug\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\UMUT\Desktop\Github\23MY93020_odev_no_01\23MY93020_odev_no_01\obj\Debug\OddOrEven.exe
+C:\Users\UMUT\Desktop\Github\23MY93020_odev_no_01\23MY93020_odev_no_01\obj\Debug\OddOrEven.pdb
