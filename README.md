@@ -27,6 +27,13 @@ To get started, simply clone the repository and set up the project on your machi
 2. **Enter** any number into the input field.
 3. **Hit** Enter, and the app will display whether the number is Odd or Even.
 
+## 📷 Screenshots
+![first_photo](https://github.com/user-attachments/assets/c2143cc3-4804-4354-92d9-4f713733f20c)
+![odd_number_test](https://github.com/user-attachments/assets/060a0cc9-a5cb-472f-bd04-27321f96b187)
+![even_number_test](https://github.com/user-attachments/assets/454b8469-c65a-4250-b610-63bbe940954a)
+![warning_test](https://github.com/user-attachments/assets/9f465ccb-cf13-4174-8ff7-6b803d42491c)
+
+
 ## 🖥 Technologies Used
 
 - **C#** - The programming language used to build the app.
