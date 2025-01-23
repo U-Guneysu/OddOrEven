@@ -33,7 +33,6 @@ To get started, simply clone the repository and set up the project on your machi
 ![even_number_test](https://github.com/user-attachments/assets/454b8469-c65a-4250-b610-63bbe940954a)
 ![warning_test](https://github.com/user-attachments/assets/9f465ccb-cf13-4174-8ff7-6b803d42491c)
 
-
 ## 🖥 Technologies Used
 
 - **C#** - The programming language used to build the app.
@@ -42,4 +41,4 @@ To get started, simply clone the repository and set up the project on your machi
 
 ---
 
-Thank you for checking out my first C# project! I hope you enjoy using it. 
+Thank you for checking out my first C# project! I hope you enjoy using it.
